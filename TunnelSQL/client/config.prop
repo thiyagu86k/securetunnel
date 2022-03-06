@@ -1,0 +1,8 @@
+#Default Concig File
+#Sun Mar 06 10:50:55 CST 2022
+forward.port=1433
+tunnel.host.username=test
+tunnel.host.ip=192.168.0.145
+tunnel.host.password=test
+tunnel.host.port=1022
+bind.port=1533
