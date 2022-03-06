@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                              <mainClass>com.fiablesystems.tunnelsql.TunnelSQL</mainClass>
+                              <mainClass>com.ubs.tunnelsql.TunnelSQL</mainClass>
                             <!--<mainClass>com.fiablesystems.tunnelsql.TunnelSQLClient</mainClass>-->
                         </manifest>
                     </archive>

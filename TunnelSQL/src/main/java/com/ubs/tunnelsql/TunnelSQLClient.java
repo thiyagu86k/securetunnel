@@ -26,6 +26,7 @@ import org.slf4j.LoggerFactory;
  * @author Kalidoss, Thiyagaraja
  */
 public class TunnelSQLClient {
+    //-Dlogback.configurationFile=path/logback.xml
     private static final Logger logger =  LoggerFactory.getLogger(TunnelSQLClient.class);
 
     public static Properties configProp = new Properties();
